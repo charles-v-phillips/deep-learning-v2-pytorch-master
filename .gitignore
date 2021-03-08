@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+
+# Project exclude paths
+/venv/
